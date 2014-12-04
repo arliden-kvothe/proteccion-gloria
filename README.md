@@ -6,7 +6,4 @@
 
 Protecci&oacute;n Gloria was created by and is maintained by **Mart&iacute;n B&aacute;rcenas**.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
 This application is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
